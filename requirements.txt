@@ -35,6 +35,7 @@ langchain-core>=0.1.48
 langchain-google-genai>=0.0.9
 
 faiss-cpu==1.7.4
+--extra-index-url https://pypi.fury.io/conda-forge
 
 unstructured[html]>=0.12.3
 google-generativeai>=0.3.2
